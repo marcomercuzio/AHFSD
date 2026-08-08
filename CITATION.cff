@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "AHFSD — Augmented Hymns for Solitary Dances"
+message: "Code archive accompanying the MA thesis."
+type: software
+authors:
+  - family-names: Peron
+    given-names: Marco Mercuzio
+    affiliation: "Zürcher Hochschule der Künste (ZHdK)"
+license: MIT
+repository-code: "https://github.com/marcomercuzio/AHFSD"
