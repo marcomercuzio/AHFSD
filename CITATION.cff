@@ -1,10 +1,19 @@
 cff-version: 1.2.0
 title: "AHFSD — Augmented Hymns for Solitary Dances"
-message: "Code archive accompanying the MA thesis."
+version: 1.0.0
 type: software
-authors:
-  - family-names: Peron
-    given-names: Marco Mercuzio
-    affiliation: "Zürcher Hochschule der Künste (ZHdK)"
 license: MIT
-repository-code: "https://github.com/marcomercuzio/AHFSD"
+message: "If you use this software, please cite it as below."
+abstract: "Real-time interactive sound system for AHFSD, a participatory
+  performance for up to ten people at the Immersive Art Space, ZHdK.
+  Motion capture reads the collective behaviour of the audience and a
+  Max/MSP system answers in spatialised sound and light."
+authors:
+  - given-names: Marco Mercuzio
+    family-names: Peron
+    affiliation: "Zürcher Hochschule der Künste (ZHdK)"
+keywords:
+  - interactive sound
+  - spatial audio
+  - artistic research
+  - motion capture
